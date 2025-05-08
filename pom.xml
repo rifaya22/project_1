@@ -1,0 +1,15 @@
+<dependencies>
+  <!-- Azure IoT Hub SDK -->
+  <dependency>
+    <groupId>com.microsoft.azure.sdk.iot</groupId>
+    <artifactId>iot-service-client</artifactId>
+    <version>1.37.2</version>
+  </dependency>
+
+  <!-- Azure Cosmos DB SDK -->
+  <dependency>
+    <groupId>com.azure</groupId>
+    <artifactId>azure-cosmos</artifactId>
+    <version>4.36.0</version>
+  </dependency>
+</dependencies>
